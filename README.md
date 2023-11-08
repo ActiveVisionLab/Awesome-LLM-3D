@@ -1,9 +1,8 @@
 
-# Awesome-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](resources/image8.gif)
 
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+🔥 3D Multi-modal Large Language Models (3D-LLM) have gained more and more attention. Here is a curated list of papers about 3D Multi-modal large language models. It also contains frameworks for 3D-LLM training, tools to deploy LLM, courses and tutorials about 3D-LLM and all publicly available LLM checkpoints and APIs.
 
 ### ToDos
 
