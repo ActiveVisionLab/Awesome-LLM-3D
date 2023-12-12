@@ -85,11 +85,11 @@ It contains various tasks including 3D understanding, reasoning, generation and 
 
 This is an active repository and your contributions are always welcome!
 
-I will keep some pull requests open if I'm not sure if they are awesome for LLM, you could vote for them by adding 👍 to them.
+I will keep some pull requests open if I'm not sure if they are awesome for 3D LLMs, you could vote for them by adding 👍 to them.
 
 ---
 
-If you have any question about this opinionated list, do not hesitate to contact me xianzheng@robots.ox.ac.uk.
+If you have any questions about this opinionated list, do not hesitate to contact me xianzheng@robots.ox.ac.uk.
 
 ## Acknowledgement
 This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists)
