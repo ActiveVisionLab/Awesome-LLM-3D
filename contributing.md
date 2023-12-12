@@ -1,10 +1,6 @@
 # Contribution Guidelines
 
-To add, remove, or change things on this repository please submit a pull request that adheres to the following guidelines:
-
-- To add a paper in **Milestone Papers**, please mention why it is important in LLM literature and sort the papers in chronological order. 
-- Models in **LLM Leaderboard** should be sorted by their model size.
-- Please follow the existing format to add new terms.
+To add, remove, or change things on this repository please submit a pull request. Please follow the existing format to add new terms.
 
 Thank you for your suggestions!
 
