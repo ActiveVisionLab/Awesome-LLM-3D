@@ -44,6 +44,7 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 19 |     Open-Fusion     |      -     | [Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation](https://arxiv.org/pdf/2310.03923.pdf)                                                                            |Arxiv|  [github](https://github.com/UARK-AICV/OpenFusion) |
 | 20 |         -         |      -      | [From Language to 3D Worlds: Adapting Language Model for Point Cloud Perception](https://openreview.net/forum?id=H49g8rRIiF)                                                              |    OpenReview     | - |
 | 21 |  OpenNerf |    -    | [OpenNerf: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](https://openreview.net/pdf?id=SgjAojPKb3)                                                                                | OpenReview | [github]() |
+| 22 |  - |    KAUST & LIX  | [Zero-Shot 3D Shape Correspondence](https://arxiv.org/abs/2306.03253)                                                                                | Siggraph Asia 2023 | - |
 
 ## 3D Reasoning
 |  ID |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
