@@ -69,6 +69,7 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 3 |         SayPlan        |     QUT Centre for Robotics    | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://arxiv.org/pdf/2307.06135.pdf)                                                                                                  |CoRL'2023|  [github](https://sayplan.github.io/) |
 | 4 |        UniHSI      |      Shanghai AI Lab     | [Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/pdf/2309.07918.pdf)                                                                                                 |   Arxiv |  [github](https://github.com/OpenRobotLab/UniHSI) |
 | 5 |         LLM-Planner         |     The Ohio State University    | [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/pdf/2212.04088.pdf)                                                                                                  |ICCV'2023|  [github](https://github.com/OSU-NLP-Group/LLM-Planner/) |
+| 6 | STEVE | ZJU & UW | [See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/abs/2311.15209) | Arxiv | [github](https://github.com/rese1f/STEVE) |
 
 ## 3D Benchmarks
 |  ID |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
