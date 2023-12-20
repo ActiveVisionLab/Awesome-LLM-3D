@@ -72,6 +72,9 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 4 |        UniHSI      |      Shanghai AI Lab     | [Unified Human-Scene Interaction via Prompted Chain-of-Contacts](https://arxiv.org/pdf/2309.07918.pdf)                                                                                                 |   Arxiv |  [github](https://github.com/OpenRobotLab/UniHSI) |
 | 5 |         LLM-Planner         |     The Ohio State University    | [LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models](https://arxiv.org/pdf/2212.04088.pdf)                                                                                                  |ICCV'2023|  [github](https://github.com/OSU-NLP-Group/LLM-Planner/) |
 | 6 | STEVE | ZJU & UW | [See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/abs/2311.15209) | Arxiv | [github](https://github.com/rese1f/STEVE) |
+| 7 |          SceneDiffuser          |      BIGAI      | [Diffusion-based Generation, Optimization, and Planning in 3D Scenes](https://arxiv.org/pdf/2301.06015)                                                           |    Arxiv  |  [github](https://github.com/scenediffuser/Scene-Diffuser) |
+| 8 |          LEO          |      BIGAI      | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)                                                           |    Arxiv  |  [github](https://github.com/embodied-generalist/embodied-generalist) |
+
 
 ## 3D Benchmarks
 |  ID |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
