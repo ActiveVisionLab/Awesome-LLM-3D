@@ -45,6 +45,8 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 20 |         -         |      -      | [From Language to 3D Worlds: Adapting Language Model for Point Cloud Perception](https://openreview.net/forum?id=H49g8rRIiF)                                                              |    OpenReview     | - |
 | 21 |  OpenNerf |    -    | [OpenNerf: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views](https://openreview.net/pdf?id=SgjAojPKb3)                                                                                | OpenReview | [github]() |
 | 22 |  - |    KAUST & LIX  | [Zero-Shot 3D Shape Correspondence](https://arxiv.org/abs/2306.03253)                                                                                | Siggraph Asia 2023 | - |
+| 23 |  LiDAR-LLM |    PKU  | [LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding](https://arxiv.org/pdf/2312.14074.pdf)                                                                                | Arxiv | [project](https://sites.google.com/view/lidar-llm) |
+
 
 ## 3D Reasoning
 |  ID |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
