@@ -58,7 +58,7 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 ## 3D Generation
 |  ID |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
-| 1 |         3D-GPT        |     ANU   | [3D-GPT: PROCEDURAL 3D MODELING WITH LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.12945.pdf)                                                                                                | Arxiv  |  [github]() |
+| 1 |         3D-GPT        |     ANU   | [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/pdf/2310.12945.pdf)                                                                                                | Arxiv  |  [github]() |
 | 2|         MeshGPT         |     TUM     | [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/pdf/2311.15475.pdf)                                                                                                  |Arxiv |  [project](https://nihalsid.github.io/mesh-gpt/) |
 | 3 |         ShapeGPT         |     Fudan University     | [ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model](https://arxiv.org/pdf/2311.17618.pdf)                                                                                                  |Arxiv|  [github](https://github.com/OpenShapeLab/ShapeGPT) |
 | 4 |         DreamLLM         |     MEGVII & Tsinghua     | [DreamLLM: Synergistic Multimodal Comprehension and Creation](https://arxiv.org/pdf/2309.11499.pdf)                                                                                                  |Arxiv|  [github](https://dreamllm.github.io/) |
@@ -79,7 +79,6 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 9 |          CLIP-Fields          |      NYU, Meta      | [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/pdf/2210.05663.pdf)                                                           |    RSS'2023  |  [github](https://github.com/notmahi/clip-fields) |
 | 10 |          Dobb-E          |      NYU, Meta      | [On Bringing Robots Home](https://arxiv.org/pdf/2311.16098.pdf)                                                           |    Arxiv  |  [github](https://github.com/notmahi/dobb-e) |
 | 11 |          VoxPoser          |      Stanford      | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)                                                           |    Arxiv  |  [github](https://github.com/huangwl18/VoxPoser) |
-
 
 ## 3D Benchmarks
 |  ID |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
