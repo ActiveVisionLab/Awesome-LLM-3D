@@ -78,6 +78,7 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 | 8 |          LEO          |      BIGAI      | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)                                                           |    Arxiv  |  [github](https://github.com/embodied-generalist/embodied-generalist) |
 | 9 |          CLIP-Fields          |      NYU, Meta      | [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://arxiv.org/pdf/2210.05663.pdf)                                                           |    RSS'2023  |  [github](https://github.com/notmahi/clip-fields) |
 | 10 |          Dobb-E          |      NYU, Meta      | [On Bringing Robots Home](https://arxiv.org/pdf/2311.16098.pdf)                                                           |    Arxiv  |  [github](https://github.com/notmahi/dobb-e) |
+| 11 |          VoxPoser          |      Stanford      | [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://voxposer.github.io/voxposer.pdf)                                                           |    Arxiv  |  [github](https://github.com/huangwl18/VoxPoser) |
 
 
 ## 3D Benchmarks
