@@ -14,18 +14,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Table of Content
 
-- [Awesome-LLM-3D      ](#awesome-llm-3d------)
-  - [🏠 About](#-about)
-  - [🔥 News](#-news)
-  - [Table of Content](#table-of-content)
-  - [3D Understanding via LLM](#3d-understanding-via-llm)
-  - [3D Understanding via other Foundation Models](#3d-understanding-via-other-foundation-models)
+- [Awesome-LLM-3D](#awesome-llm-3D)
+  - [3D Understanding (LLM)](#3d-understanding-via-llm)
+  - [3D Understanding (other Foundation Models)](#3d-understanding-via-other-foundation-models)
   - [3D Reasoning](#3d-reasoning)
   - [3D Generation](#3d-generation)
   - [3D Embodied Agent](#3d-embodied-agent)
   - [3D Benchmarks](#3d-benchmarks)
   - [Contributing](#contributing)
-  - [Acknowledgement](#acknowledgement)
 
 
 
