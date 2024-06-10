@@ -14,14 +14,18 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Table of Content
 
-- [Awesome-LLM-3D](#awesome-llm-3D)
-  - [3D Understanding (LLM)](#3d-understanding-via-llm)
-  - [3D Understanding (other Foundation Models)](#3d-understanding-via-other-foundation-models)
+- [Awesome-LLM-3D      ](#awesome-llm-3d------)
+  - [🏠 About](#-about)
+  - [🔥 News](#-news)
+  - [Table of Content](#table-of-content)
+  - [3D Understanding via LLM](#3d-understanding-via-llm)
+  - [3D Understanding via other Foundation Models](#3d-understanding-via-other-foundation-models)
   - [3D Reasoning](#3d-reasoning)
   - [3D Generation](#3d-generation)
   - [3D Embodied Agent](#3d-embodied-agent)
   - [3D Benchmarks](#3d-benchmarks)
   - [Contributing](#contributing)
+  - [Acknowledgement](#acknowledgement)
 
 
 
@@ -118,6 +122,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2024-06-10 | 3D-GRAND / 3D-POPE | UMich | [3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs](https://arxiv.org/pdf/2406.05132.pdf) | Arxiv | [project](https://3d-grand.github.io) |
 | 2024-1-18 | SceneVerse | BIGAI | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340.pdf) | Arxiv | [github](https://github.com/scene-verse/sceneverse) |
 | 2023-12-26 | EmbodiedScan | Shanghai AI Lab | [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI](https://arxiv.org/pdf/2312.16170.pdf) | Arxiv | [github](https://github.com/OpenRobotLab/EmbodiedScan) |
 | 2023-12-17 |         M3DBench        |     Fudan University     | [M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts](https://arxiv.org/abs/2312.10763)                                                                                                  |Arxiv|  [github](https://github.com/OpenM3D/M3DBench) |
