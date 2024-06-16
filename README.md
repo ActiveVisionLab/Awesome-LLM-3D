@@ -1,5 +1,5 @@
 
-# Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a>
+# Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a> [![arXiv](https://img.shields.io/badge/arXiv-2405.10255-b31b1b.svg)](https://arxiv.org/abs/2405.10255)
 
 
 ## 🏠 About
