@@ -141,13 +141,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Contributing
 
-your contributions are always welcome!
+Your contributions are always welcome!
 
 I will keep some pull requests open if I'm not sure if they are awesome for 3D LLMs, you could vote for them by adding 👍 to them.
 
 ---
 
 If you have any questions about this opinionated list, please get in touch at xianzheng@robots.ox.ac.uk or Wechat ID: mxz1997112.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ActiveVisionLab/Awesome-LLM-3D&type=Date)](https://star-history.com/#ActiveVisionLab/Awesome-LLM-3D&Date)
 
 ## Acknowledgement
 This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists)
