@@ -1,17 +1,22 @@
 
 # Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a> [![arXiv](https://img.shields.io/badge/arXiv-2405.10255-b31b1b.svg)](https://arxiv.org/abs/2405.10255)
 
-### 📢 Survey paper available on arXiv now: **[[Paper](https://arxiv.org/pdf/2405.10255)]**
+<div align="center">
+    <img src="assets/Figure1_v5.png" width="100%">
+</div>
+
+
 
 ## 🏠 About
 Here is a curated list of papers about 3D-Related Tasks empowered by Large Language Models (LLMs). 
 It contains various tasks including 3D understanding, reasoning, generation, and embodied agents. Also, we include other Foundation Models (CLIP, SAM) for the whole picture of this area.
 
-This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star this repo.
+This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star ⭐ this repo and [cite](#citation) the paper.
 
 ## 🔥 News
-- [2023-12-16] [Xianzheng Ma](https://xianzhengma.github.io/) and [Yash Bhalgat](https://yashbhalgat.github.io/) curated this list and published the first version;
+- [2024-05-16] 📢 Check out the first survey paper in the 3D-LLM domain: [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) 
 - [2024-01-06] [Runsen Xu](https://runsenxu.com/) added chronological information and [Xianzheng Ma](https://xianzhengma.github.io/) reorganized it in Z-A order for better following the latest advances.
+- [2023-12-16] [Xianzheng Ma](https://xianzhengma.github.io/) and [Yash Bhalgat](https://yashbhalgat.github.io/) curated this list and published the first version;
 
 ## Table of Content
 
@@ -152,6 +157,17 @@ If you have any questions about this opinionated list, please get in touch at xi
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ActiveVisionLab/Awesome-LLM-3D&type=Date)](https://star-history.com/#ActiveVisionLab/Awesome-LLM-3D&Date)
+
+## Citation
+If you find this repository useful, please consider citing this paper:
+```
+@misc{ma2024llmsstep3dworld,
+      title={When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models}, 
+      author={Xianzheng Ma and Yash Bhalgat and Brandon Smart and Shuai Chen and Xinghui Li and Jian Ding and Jindong Gu and Dave Zhenyu Chen and Songyou Peng and Jia-Wang Bian and Philip H Torr and Marc Pollefeys and Matthias Nießner and Ian D Reid and Angel X. Chang and Iro Laina and Victor Adrian Prisacariu},
+      year={2024},
+      journal={arXiv preprint arXiv:2405.10255},
+}
+```
 
 ## Acknowledgement
 This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists)
