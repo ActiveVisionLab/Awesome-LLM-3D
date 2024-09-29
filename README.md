@@ -35,7 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
-| 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | Axiv| [project](https://msr3d.github.io/) |
+| 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
 | 2024-08-28 | GreenPLM | HUST | [ More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding]( https://arxiv.org/pdf/2408.15966) | Arxiv| [github](https://github.com/TangYuan96/GreenPLM) |
 | 2024-06-07  | SpatialPIN           | Oxford                 | [SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors](https://arxiv.org/abs/2403.13438)                         | NeurIPS '24       | [project](https://dannymcy.github.io/zeroshot_task_hallucination/) |
 | 2024-05-02 | MiniGPT-3D | HUST| [MiniGPT-3D: Efficiently Aligning 3D Point Clouds with Large Language Models using 2D Priors](https://arxiv.org/pdf/2405.01413)| ACM MM '24 | [project](https://tangyuan96.github.io/minigpt_3d_project_page/) |
@@ -132,7 +132,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
-| 2024-09-08 | MSQA / MSNN | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | Axiv| [project](https://msr3d.github.io/) |
+| 2024-09-08 | MSQA / MSNN | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
 | 2024-06-10 | 3D-GRAND / 3D-POPE | UMich | [3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination](https://arxiv.org/pdf/2406.05132.pdf) | Arxiv | [project](https://3d-grand.github.io) |
 | 2024-1-18 | SceneVerse | BIGAI | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340.pdf) | Arxiv | [github](https://github.com/scene-verse/sceneverse) |
 | 2023-12-26 | EmbodiedScan | Shanghai AI Lab | [EmbodiedScan: A Holistic Multi-Modal 3D Perception Suite Towards Embodied AI](https://arxiv.org/pdf/2312.16170.pdf) | Arxiv | [github](https://github.com/OpenRobotLab/EmbodiedScan) |
