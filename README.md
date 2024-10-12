@@ -66,7 +66,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Understanding via other Foundation Models
 |  ID |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
-| 2024-10-07 |  Lexicon3D |    UIUC  | [Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding](https://arxiv.org/abs/2409.03757) | NeurIPS '24 | [project](https://yunzeman.github.io/lexicon3d/) |
+| 2024-10-12 |  Lexicon3D |    UIUC  | [Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding](https://arxiv.org/abs/2409.03757) | NeurIPS '24 | [project](https://yunzeman.github.io/lexicon3d/) |
 | 2024-10-07 |  Diff2Scene |    CMU  | [Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2407.13642) | ECCV 2024 | [project](https://diff2scene.github.io/) |
 | 2024-04-07 |  Any2Point |    Shanghai AI Lab  | [Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding](https://arxiv.org/pdf/2404.07989) | ECCV 2024 | [github](https://github.com/Ivan-Tang-3D/Any2Point) |
 | 2024-03-16 |  N2F2 |    Oxford-VGG  | [N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields](https://arxiv.org/pdf/2403.10997.pdf) | Arxiv | - |
