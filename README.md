@@ -35,6 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2024-10-20 | SpatialRGPT | UCSD | [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models](https://arxiv.org/abs/2406.01584) | NeurIPS '24 | [github](https://github.com/AnjieCheng/SpatialRGPT) |
 | 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
 | 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
 | 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
@@ -136,6 +137,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2024-10-20 | SpatialRGPT-Bench | UCSD | [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models](https://arxiv.org/abs/2406.01584) | NeurIPS '24 | [github](https://github.com/AnjieCheng/SpatialRGPT) |
 | 2024-09-08 | MSQA / MSNN | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
 | 2024-06-10 | 3D-GRAND / 3D-POPE | UMich | [3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination](https://arxiv.org/pdf/2406.05132.pdf) | Arxiv | [project](https://3d-grand.github.io) |
 | 2024-1-18 | SceneVerse | BIGAI | [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/pdf/2401.09340.pdf) | Arxiv | [github](https://github.com/scene-verse/sceneverse) |
