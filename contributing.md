@@ -2,6 +2,8 @@
 
 To add, remove, or change things on this repository please submit a pull request. Please follow the existing format to add new terms.
 
+The date needs to reflect the first time the paper was posted online. Please follow the existing format to add new terms, and only the first affiliation is required.
+
 Thank you for your suggestions!
 
 ## Updating your PR
