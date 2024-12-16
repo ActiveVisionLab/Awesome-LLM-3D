@@ -35,6 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2024-12-03 | Video-3D LLM | CUHK | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493) | Arxiv | [project](https://github.com/LaVi-Lab/Video-3D-LLM) |
 | 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
 | 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
 | 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
@@ -123,6 +124,7 @@ This is an active repository, you can watch for following the latest advances. I
 |  Date |       keywords       |    Institute   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | 2024-01-22 |  SpatialVLM |    Deepmind  | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)                                                                                | CVPR '24 | [project](https://spatial-vlm.github.io/) |
+| 2023-12-05 | NaviLLM | CUHK | [Towards Learning a Generalist Model for Embodied Navigation](https://arxiv.org/abs/2312.02010) | CVPR '24 | [project](https://github.com/zd11024/NaviLLM) |
 | 2023-11-27 | Dobb-E | NYU | [On Bringing Robots Home](https://arxiv.org/pdf/2311.16098.pdf)        |    Arxiv  |  [github](https://github.com/notmahi/dobb-e) |
 | 2023-11-26 | STEVE | ZJU | [See and Think: Embodied Agent in Virtual Environment](https://arxiv.org/abs/2311.15209) | Arxiv | [github](https://github.com/rese1f/STEVE) |
 | 2023-11-18 | LEO  |   BIGAI  | [An Embodied Generalist Agent in 3D World](https://arxiv.org/pdf/2311.12871.pdf)   |    ICML '24  |  [github](https://github.com/embodied-generalist/embodied-generalist) |
