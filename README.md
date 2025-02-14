@@ -35,6 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2025-01-02 | GPT4Scene | HKU | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428) | Arxiv | [project](https://gpt4scene.github.io/) |
 | 2024-12-03 | Video-3D LLM | CUHK | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493) | Arxiv | [project](https://github.com/LaVi-Lab/Video-3D-LLM) |
 | 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
 | 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
