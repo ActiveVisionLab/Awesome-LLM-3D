@@ -142,6 +142,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-03-08 | 3D-CoT | PolyU, EIT | [Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning](https://arxiv.org/abs/2503.06232) | Arxiv | [dataset](https://huggingface.co/datasets/Battam/3D-CoT) |
 | 2024-09-08 | MSQA / MSNN | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
 | 2024-06-10 | 3D-GRAND / 3D-POPE | UMich | [3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination](https://arxiv.org/pdf/2406.05132.pdf) | Arxiv | [project](https://3d-grand.github.io) |
 | 2024-06-03 | SpatialRGPT-Bench | UCSD | [SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models](https://arxiv.org/abs/2406.01584) | NeurIPS '24 | [github](https://github.com/AnjieCheng/SpatialRGPT) |
