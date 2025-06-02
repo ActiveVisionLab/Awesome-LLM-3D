@@ -35,6 +35,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2025-05-30 | VG LLM | CUHK | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/abs/2505.24625) | Arxiv | [project](https://lavi-lab.github.io/VG-LLM/) |
 | 2025-04-03 | Ross3D | CASIA| [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](https://arxiv.org/pdf/2504.01901) | Arxiv | [project](https://haochen-wang409.github.io/ross3d/) |
 | 2025-02-02 | LSceneLLM | SCUT| [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292) | CVPR '25 | [project](https://github.com/Hoyyyaard/LSceneLLM) |
 | 2025-01-02 | GPT4Scene | HKU | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428) | Arxiv | [project](https://gpt4scene.github.io/) |
