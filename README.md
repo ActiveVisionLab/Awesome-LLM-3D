@@ -140,6 +140,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Embodied Agent
 |  Date |       keywords       |    Institute   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-05-30 | VeBrain | Shanghai AI Lab | [Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/pdf/2506.00123v1) | Arxiv | [project](https://internvl.github.io/blog/2025-05-26-VeBrain/) |
 | 2024-01-22 |  SpatialVLM |    Deepmind  | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)                                                                                | CVPR '24 | [project](https://spatial-vlm.github.io/) |
 | 2023-12-05 | NaviLLM | CUHK | [Towards Learning a Generalist Model for Embodied Navigation](https://arxiv.org/abs/2312.02010) | CVPR '24 | [project](https://github.com/zd11024/NaviLLM) |
 | 2023-11-27 | Dobb-E | NYU | [On Bringing Robots Home](https://arxiv.org/pdf/2311.16098.pdf)        |    Arxiv  |  [github](https://github.com/notmahi/dobb-e) |
@@ -157,6 +158,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
 | 2025-05-01 | SpatialVQA | JHU | [SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models](https://arxiv.org/abs/2505.00788) | CVPR'25| [project]() |
 | 2025-04-03 | SPAR | Fudan University | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://arxiv.org/abs/2503.22976) | Arxiv| [project](https://fudan-zvg.github.io/spar) |
 | 2025-03-28 | Beacon3D | BIGAI | [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](https://arxiv.org/abs/2503.22420) | CVPR '25| [project](https://beacon-3d.github.io) |
