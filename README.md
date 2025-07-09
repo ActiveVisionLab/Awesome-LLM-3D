@@ -38,7 +38,7 @@ This is an active repository, you can watch for following the latest advances. I
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
 | 2025-06-02 | 3DRS | HKU | [MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](https://arxiv.org/html/2506.01946v1) | Arxiv | [project](https://visual-ai.github.io/3drs/) |
 | 2025-05-30 | VG LLM | CUHK | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/abs/2505.24625) | Arxiv | [project](https://lavi-lab.github.io/VG-LLM/) |
-| 2025-05-29 | Spatial-MLLM | THU | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/pdf/2505.23747) | Arxiv | [project](https://diankun-wu.github.io/Spatial-MLLM/) |
+| 2025-05-29 | Spatial-MLLM | THU | [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) | Arxiv | [project](https://diankun-wu.github.io/Spatial-MLLM/) |
 | 2025-05-28 | 3DLLM-Mem | UCLA | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | Arxiv | [project](https://3dllm-mem.github.io/) |
 | 2025-04-24 | 3D-LLaVA | U of Adelaide | [3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://arxiv.org/pdf/2501.01163) | CVPR '25 | [github](https://github.com/djiajunustc/3D-LLaVA) |
 | 2025-04-03 | Ross3D | CASIA| [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](https://arxiv.org/pdf/2504.01901) | Arxiv | [project](https://haochen-wang409.github.io/ross3d/) |
@@ -48,7 +48,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-02-02 | LSceneLLM | SCUT| [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292) | CVPR '25 | [project](https://github.com/Hoyyyaard/LSceneLLM) |
 | 2025-01-02 | GPT4Scene | HKU | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428) | Arxiv | [project](https://gpt4scene.github.io/) |
 | 2024-12-03 | Video-3D LLM | CUHK | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493) | CVPR '25 | [project](https://github.com/LaVi-Lab/Video-3D-LLM) |
-| 2024-11-29 | PerLA | Fondazione Bruno Kessler | [PerLA PerLA Logo Perceptive 3D Language Assistant](https://arxiv.org/abs/2411.19774) | CVPR '25 | [project](https://gfmei.github.io/PerLA/) |
+| 2024-11-29 | PerLA | Fondazione Bruno Kessler | [PerLA: Perceptive 3D Language Assistant](https://arxiv.org/abs/2411.19774) | CVPR '25 | [project](https://gfmei.github.io/PerLA/) |
 | 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
 | 2024-09-30 | Robin3D | HKU | [Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning](https://arxiv.org/abs/2410.00255) | ICCV '25 | [github](https://github.com/WeitaiKang/Robin3D) |
 | 2024-09-28 | LLaVA-3D | HKU | [LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness](https://arxiv.org/pdf/2409.18125) | Arxiv | [project](https://zcmax.github.io/projects/LLaVA-3D/) |
@@ -167,7 +167,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-03-28 | Beacon3D | BIGAI | [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](https://arxiv.org/abs/2503.22420) | CVPR '25| [project](https://beacon-3d.github.io) |
 | 2025-03-08 | 3D-CoT | PolyU, EIT | [Integrating Chain-of-Thought for Multimodal Alignment: A Study on 3D Vision-Language Learning](https://arxiv.org/abs/2503.06232) | Arxiv | [dataset](https://huggingface.co/datasets/Battam/3D-CoT) |
 | 2024-09-08 | MSQA / MSNN | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
-| 2024-08-29 | Space3D-Bench | ETHz | [Space3D-Bench: Spatial 3D Question Answering Benchmark](https://arxiv.org/pdf/2406.09401) | Arxiv | [project](https://space3d-bench.github.io/) |
+| 2024-08-29 | Space3D-Bench | ETHz | [Space3D-Bench: Spatial 3D Question Answering Benchmark](https://arxiv.org/abs/2408.16662) | Arxiv | [project](https://space3d-bench.github.io/) |
 | 2024-07-24 | City-3DQA | HKUST | [3D Question Answering for City Scene Understanding](https://arxiv.org/pdf/2407.17398) | ACM MM'24 | [project](https://sites.google.com/view/city3dqa/?pli=1) |
 | 2024-06-13 | MMScan | Shanghai AI Lab | [MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations](https://arxiv.org/pdf/2406.09401) | Arxiv | [github](https://github.com/OpenRobotLab/EmbodiedScan) |
 | 2024-06-10 | 3D-GRAND / 3D-POPE | UMich | [3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination](https://arxiv.org/pdf/2406.05132.pdf) | Arxiv | [project](https://3d-grand.github.io) |
