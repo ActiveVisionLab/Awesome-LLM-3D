@@ -36,6 +36,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-02 | 3DRS | HKU | [MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](https://arxiv.org/html/2506.01946v1) | Arxiv | [project](https://visual-ai.github.io/3drs/) |
 | 2025-05-30 | VG LLM | CUHK | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/abs/2505.24625) | Arxiv | [project](https://lavi-lab.github.io/VG-LLM/) |
 | 2025-05-29 | Spatial-MLLM | THU | [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) | Arxiv | [project](https://diankun-wu.github.io/Spatial-MLLM/) |
@@ -123,6 +124,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Reasoning
 |  Date |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
 | 2023-5-20|       3D-CLR      |      UCLA     | [3D Concept Learning and Reasoning from Multi-View Images](https://arxiv.org/pdf/2303.11327.pdf)                                                 |   CVPR '23  | [github](https://github.com/evelinehong/3D-CLR-Official) |
 | - |         Transcribe3D         |     TTI, Chicago     | [Transcribe3D: Grounding LLMs Using Transcribed Information for 3D Referential Reasoning with Self-Corrected Finetuning](https://openreview.net/pdf?id=7j3sdUZMTF)                                                                                                  |CoRL '23|  [github]() |
@@ -142,6 +144,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Embodied Agent
 |  Date |       keywords       |    Institute   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-05-30 | VeBrain | Shanghai AI Lab | [Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/pdf/2506.00123v1) | Arxiv | [project](https://internvl.github.io/blog/2025-05-26-VeBrain/) |
 | 2025-05-28 | 3DLLM-Mem | UCLA | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | Arxiv | [project](https://3dllm-mem.github.io/) |
 | 2024-01-22 |  SpatialVLM |    Deepmind  | [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)                                                                                | CVPR '24 | [project](https://spatial-vlm.github.io/) |
@@ -161,6 +164,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
 | 2025-05-01 | SpatialVQA | JHU | [SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models](https://arxiv.org/abs/2505.00788) | CVPR'25| [project]() |
 | 2025-04-03 | SPAR | Fudan University | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://arxiv.org/abs/2503.22976) | Arxiv| [project](https://fudan-zvg.github.io/spar) |
