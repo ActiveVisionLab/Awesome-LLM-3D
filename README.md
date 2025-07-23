@@ -19,7 +19,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [2024-01-06] [Runsen Xu](https://runsenxu.com/) added chronological information and [Xianzheng Ma](https://xianzhengma.github.io/) reorganized it in Z-A order for better following the latest advances.
 - [2023-12-16] [Xianzheng Ma](https://xianzhengma.github.io/) and [Yash Bhalgat](https://yashbhalgat.github.io/) curated this list and published the first version;
 
-## Table of Content
+## Table of Contents
 
 - [Awesome-LLM-3D](#awesome-llm-3D)
   - [3D Understanding (LLM)](#3d-understanding-via-llm)
@@ -40,6 +40,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-06-02 | 3DRS | HKU | [MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](https://arxiv.org/html/2506.01946v1) | Arxiv | [project](https://visual-ai.github.io/3drs/) |
 | 2025-05-30 | VG LLM | CUHK | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/abs/2505.24625) | Arxiv | [project](https://lavi-lab.github.io/VG-LLM/) |
 | 2025-05-29 | Spatial-MLLM | THU | [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) | Arxiv | [project](https://diankun-wu.github.io/Spatial-MLLM/) |
+| 2025-05-28 | SeeGround | HKUST(GZ) | [Zero-Shot 3D Visual Grounding from Vision-Language Models](https://arxiv.org/abs/2505.22429) | CVPRW'25 | [project](https://seeground.github.io) |
 | 2025-05-28 | 3DLLM-Mem | UCLA | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | Arxiv | [project](https://3dllm-mem.github.io/) |
 | 2025-04-24 | 3D-LLaVA | U of Adelaide | [3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer](https://arxiv.org/pdf/2501.01163) | CVPR '25 | [github](https://github.com/djiajunustc/3D-LLaVA) |
 | 2025-04-03 | Ross3D | CASIA| [Ross3D: Reconstructive Visual Instruction Tuning with 3D-Awareness](https://arxiv.org/pdf/2504.01901) | Arxiv | [project](https://haochen-wang409.github.io/ross3d/) |
@@ -48,6 +49,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-02-13 | ENEL | SH AILab | [ENEL: Exploring the Potential of Encoder-free Architectures in 3D LMMs](https://arxiv.org/pdf/2502.09620v1) | Arxiv | [project](https://github.com/Ivan-Tang-3D/ENEL/tree/main?tab=readme-ov-file) |
 | 2025-02-02 | LSceneLLM | SCUT| [LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences](https://arxiv.org/pdf/2412.01292) | CVPR '25 | [project](https://github.com/Hoyyyaard/LSceneLLM) |
 | 2025-01-02 | GPT4Scene | HKU | [GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models](https://arxiv.org/pdf/2501.01428) | Arxiv | [project](https://gpt4scene.github.io/) |
+| 2024-12-05 | SeeGround | HKUST(GZ) | [SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2412.04383) | CVPR '25 | [project](https://seeground.github.io) |
 | 2024-12-03 | Video-3D LLM | CUHK | [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493) | CVPR '25 | [project](https://github.com/LaVi-Lab/Video-3D-LLM) |
 | 2024-11-29 | PerLA | Fondazione Bruno Kessler | [PerLA: Perceptive 3D Language Assistant](https://arxiv.org/abs/2411.19774) | CVPR '25 | [project](https://gfmei.github.io/PerLA/) |
 | 2024-10-12 | Situation3D | UIUC | [Situational Awareness Matters in 3D Vision Language Reasoning](https://arxiv.org/abs/2406.07544) | CVPR '24 | [project](https://yunzeman.github.io/situation3d/) |
