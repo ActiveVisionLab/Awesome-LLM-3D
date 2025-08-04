@@ -86,6 +86,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Understanding via other Foundation Models
 |  ID |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-07-26 |  OV-3DDet |    HKUST  | [CoDAv2: Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://arxiv.org/abs/2406.00830)                                                                                | TPAMI '25 | [github](https://github.com/yangcaoai/CoDA_NeurIPS2023) |
 | 2025-02-20 |  CrossOver |  Stanford | [CrossOver: 3D Scene Cross-Modal Alignment](https://arxiv.org/abs/2502.15011) | CVPR '25 | [project](https://sayands.github.io/crossover/) |
 | 2025-02-05 |  SAGA |  SJTU | [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | AAAI '25 | [project](https://jumpat.github.io/SAGA/) |
 | 2024-10-12 |  Lexicon3D |    UIUC  | [Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding](https://arxiv.org/abs/2409.03757) | NeurIPS '24 | [project](https://yunzeman.github.io/lexicon3d/) |
