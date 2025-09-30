@@ -36,7 +36,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
-| 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-02 | 3DRS | HKU | [MLLMs Need 3D-Aware Representation Supervision for Scene Understanding](https://arxiv.org/html/2506.01946v1) | Arxiv | [project](https://visual-ai.github.io/3drs/) |
 | 2025-05-30 | VG LLM | CUHK | [Learning from Videos for 3D World: Enhancing MLLMs with 3D Vision Geometry Priors](https://arxiv.org/abs/2505.24625) | Arxiv | [project](https://lavi-lab.github.io/VG-LLM/) |
 | 2025-05-29 | Spatial-MLLM | THU | [Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence](https://arxiv.org/pdf/2505.23747) | Arxiv | [project](https://diankun-wu.github.io/Spatial-MLLM/) |
