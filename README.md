@@ -1,5 +1,5 @@
 
-# Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a> [![arXiv](https://img.shields.io/badge/arXiv-2405.10255-b31b1b.svg)](https://arxiv.org/abs/2405.10255)
+# Awesome-LLM-3D [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  <a href="" target='_blank'><img src="https://visitor-badge.laobi.icu/badge?page_id=activevisionlab.llm3d&left_color=gray&right_color=blue"> </a> [![arXiv](https://img.shields.io/badge/arXiv-2405.10255v2-b31b1b.svg)](https://arxiv.org/abs/2405.10255v2)
 
 <div align="center">
     <img src="assets/Figure1_v8_25.6.9.png" width="100%">
@@ -14,7 +14,8 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star ⭐ this repo and [cite](#citation) the paper.
 
 ## 🔥 News
-- [2025-06-12] 📢 We are finalizing the second version of survey paper (update to Jun.2025): [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) , stay tuned!
+- [2025-10-21] 📢 We have released the **second version** of our survey, updated to include literature up to **July 2025**:  
+👉 [*When LLMs Step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models*](https://arxiv.org/pdf/2405.10255v2)
 - [2024-05-16] Check out the first survey paper in the 3D-LLM domain: [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) 
 - [2024-01-06] [Runsen Xu](https://runsenxu.com/) added chronological information and [Xianzheng Ma](https://xianzhengma.github.io/) reorganized it in Z-A order for better following the latest advances.
 - [2023-12-16] [Xianzheng Ma](https://xianzhengma.github.io/) and [Yash Bhalgat](https://yashbhalgat.github.io/) curated this list and published the first version;
