@@ -128,7 +128,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## 3D Reasoning
 |  Date |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
-| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: |
+| 2025-12-15 | RoboTracer | BUAA | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660) | Arxiv | [project](https://zhoues.github.io/RoboTracer/) |
 | 2025-06-11 | SceneCOT | BIGAI | [SceneCOT: Eliciting Chain-of-Thought Reasoning in 3D Scenes](https://scenecot.github.io/) | Arxiv | [project](https://scenecot.github.io/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2024-09-08 | MSR3D | BIGAI | [Multi-modal Situated Reasoning in 3D Scenes](https://arxiv.org/abs/2409.02389) | NeurIPS '24| [project](https://msr3d.github.io/) |
@@ -149,7 +150,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## 3D Embodied Agent
 |  Date |       keywords       |    Institute   | Paper                                                                                                                                                                               | Publication | Others |
-| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: |
+| 2025-12-15 | RoboTracer | BUAA | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660) | Arxiv | [project](https://zhoues.github.io/RoboTracer/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-05-30 | VeBrain | Shanghai AI Lab | [Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://arxiv.org/pdf/2506.00123v1) | Arxiv | [project](https://internvl.github.io/blog/2025-05-26-VeBrain/) |
 | 2025-05-28 | 3DLLM-Mem | UCLA | [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657) | Arxiv | [project](https://3dllm-mem.github.io/) |
@@ -169,7 +171,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
-| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: |
+| 2025-12-15 | RoboTracer | BUAA | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660) | Arxiv | [project](https://zhoues.github.io/RoboTracer/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
 | 2025-05-01 | SpatialVQA | JHU | [SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models](https://arxiv.org/abs/2505.00788) | CVPR'25| [project]() |
@@ -192,7 +195,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2022-09-24 |     FE-3DGQA     |      Beihang University    | [Towards Explainable 3D Grounded Visual Question Answering: A New Benchmark and Strong Baseline](https://arxiv.org/pdf/2209.12028)                                                                                                        | TCSVT | [github](https://github.com/zlccccc/3DVL_Codebase) |
 | 2021-12-20|     ScanQA     |      RIKEN AIP    | [ScanQA: 3D Question Answering for Spatial Scene Understanding](https://arxiv.org/pdf/2112.10482.pdf)                                                                                                        | CVPR '23| [github](https://github.com/ATR-DBI/ScanQA) |
 | 2020-12-3 |     Scan2Cap     |      TUM    | [Scan2Cap: Context-aware Dense Captioning in RGB-D Scans](https://arxiv.org/pdf/2012.02206.pdf)                                                                                                        | CVPR '21| [github](https://github.com/daveredrum/Scan2Cap) |
-| 2020-8-23 | ReferIt3D | Stanford | [ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) | ECCV '20 | [github](https://github.com/referit3d/referit3d) 
+| 2020-8-23 | ReferIt3D | Stanford | [ReferIt3D: Neural Listeners for Fine-Grained 3D Object Identification in Real-World Scenes](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460409.pdf) | ECCV '20 | [github](https://github.com/referit3d/referit3d) |
 | 2019-12-18 |     ScanRefer     |      TUM   | [ScanRefer: 3D Object Localization in RGB-D Scans using Natural Language](https://arxiv.org/pdf/2112.10482.pdf)                                                                                                        | ECCV '20 | [github](https://daveredrum.github.io/ScanRefer/) |
 
 ## Contributing
