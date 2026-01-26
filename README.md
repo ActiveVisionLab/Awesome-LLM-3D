@@ -88,6 +88,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Understanding via other Foundation Models
 |  ID |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-11-20 | POMA-3D | Imperial | [POMA-3D: The Point Map Way to 3D Scene Understanding](https://arxiv.org/abs/2511.16567) | Arxiv | [project](https://matchlab-imperial.github.io/poma3d/) |
 | 2025-07-26 |  OV-3DDet |    HKUST  | [CoDAv2: Collaborative Novel Object Discovery and Box-Guided Cross-Modal Alignment for Open-Vocabulary 3D Object Detection](https://arxiv.org/abs/2406.00830)                                                                                | TPAMI '25 | [github](https://github.com/yangcaoai/CoDA_NeurIPS2023) |
 | 2025-02-20 |  CrossOver |  Stanford | [CrossOver: 3D Scene Cross-Modal Alignment](https://arxiv.org/abs/2502.15011) | CVPR '25 | [project](https://sayands.github.io/crossover/) |
 | 2025-02-05 |  SAGA |  SJTU | [Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | AAAI '25 | [project](https://jumpat.github.io/SAGA/) |
@@ -173,6 +174,7 @@ This is an active repository, you can watch for following the latest advances. I
 | 2025-11-28 | ORS3D | HUST | [Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution](https://arxiv.org/abs/2511.19430) | AAAI ‘26 | [project](https://h-embodvis.github.io/GRANT/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
+| 2025-05-01 | Hypo3D | Imperial | [Hypo3D: Exploring Hypothetical Reasoning in 3D](https://arxiv.org/abs/2502.00954) | ICML'25| [project](https://github.com/MatchLab-Imperial/Hypo3D) |
 | 2025-06-04 | Anywhere3D | BIGAI | [From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes](https://arxiv.org/abs/2506.04897) | NeurIPS '25 | [project](https://anywhere-3d.github.io/) |
 | 2025-05-01 | SpatialVQA | JHU | [SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models](https://arxiv.org/abs/2505.00788) | CVPR'25| [project]() |
 | 2025-04-03 | SPAR | Fudan University | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://arxiv.org/abs/2503.22976) | Arxiv| [project](https://fudan-zvg.github.io/spar) |
