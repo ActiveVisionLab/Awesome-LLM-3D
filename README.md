@@ -171,9 +171,11 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-11-28 | ORS3D | HUST | [Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution](https://arxiv.org/abs/2511.19430) | AAAI ‘26 | [project](https://h-embodvis.github.io/GRANT/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
 | 2025-05-01 | Hypo3D | Imperial | [Hypo3D: Exploring Hypothetical Reasoning in 3D](https://arxiv.org/abs/2502.00954) | ICML'25| [project](https://github.com/MatchLab-Imperial/Hypo3D) |
+| 2025-06-04 | Anywhere3D | BIGAI | [From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes](https://arxiv.org/abs/2506.04897) | NeurIPS '25 | [project](https://anywhere-3d.github.io/) |
 | 2025-05-01 | SpatialVQA | JHU | [SpatialLLM: A Compound 3D-Informed Design towards Spatially-Intelligent Large Multimodal Models](https://arxiv.org/abs/2505.00788) | CVPR'25| [project]() |
 | 2025-04-03 | SPAR | Fudan University | [From Flatland to Space: Teaching Vision-Language Models to Perceive and Reason in 3D](https://arxiv.org/abs/2503.22976) | Arxiv| [project](https://fudan-zvg.github.io/spar) |
 | 2025-03-28 | Beacon3D | BIGAI | [Unveiling the Mist over 3D Vision-Language Understanding: Object-centric Evaluation with Chain-of-Analysis](https://arxiv.org/abs/2503.22420) | CVPR '25| [project](https://beacon-3d.github.io) |
