@@ -170,6 +170,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
+| 2025-11-28 | ORS3D | HUST | [Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution](https://arxiv.org/abs/2511.19430) | AAAI ‘26 | [project](https://h-embodvis.github.io/GRANT/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
 | 2025-06-09 | SpaCE-10 | SJTU | [SpaCE-10: A Comprehensive Benchmark for Multimodal Large Language Models in Compositional Spatial Intelligence](https://arxiv.org/abs/2506.07966) | Arxiv | [project](https://github.com/VisionXLab/SpaCE-10) |
 | 2025-06-04 | Anywhere3D | BIGAI | [From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes](https://arxiv.org/abs/2506.04897) | NeurIPS '25 | [project](https://anywhere-3d.github.io/) |
