@@ -23,6 +23,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## Table of Contents
 
 - [Awesome-LLM-3D](#awesome-llm-3D)
+  - [3D Unified Understanding and Generation (LLM)](#3d-unified-understanding-and-generation-via-llm)
   - [3D Understanding (LLM)](#3d-understanding-via-llm)
   - [3D Understanding (other Foundation Models)](#3d-understanding-via-other-foundation-models)
   - [3D Reasoning](#3d-reasoning)
@@ -32,6 +33,12 @@ This is an active repository, you can watch for following the latest advances. I
   - [Contributing](#contributing)
 
 
+## 3D Unified Understanding and Generation via LLM
+
+|  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
+| :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2025-11-07 | Omni-View | PKU | [Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) | ICLR 2026 | [github](https://github.com/AIDC-AI/Omni-View) |
+| 2025-08-16 | UniUGG | FDU | [UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic Encoding](https://arxiv.org/abs/2508.11952) | ICLR 2026 | [github](https://github.com/fudan-zvg/UniUGG) |
 
 ## 3D Understanding via LLM
 
