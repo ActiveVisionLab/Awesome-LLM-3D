@@ -14,6 +14,7 @@ It contains various tasks including 3D understanding, reasoning, generation, and
 This is an active repository, you can watch for following the latest advances. If you find it useful, please kindly star ⭐ this repo and [cite](#citation) the paper.
 
 ## 🔥 News
+- [2026-03-20] Our benchmark paper **Real-3DQA** is now available at ICLR 2026! Following our survey paper, we now release the benchmark paper on genuine 3D spatial understanding. [Project Page](https://real-3dqa.github.io/)
 - [2025-10-21] 📢 We have released the **second version** of our survey, updated to include literature up to **July 2025**:  
 👉 [*When LLMs Step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models*](https://arxiv.org/pdf/2405.10255v2)
 - [2024-05-16] Check out the first survey paper in the 3D-LLM domain: [When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models](https://arxiv.org/pdf/2405.10255) 
@@ -174,6 +175,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Benchmarks
 |  Date |       keywords       |    Institute    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: |
+| 2026-01-22 | Real-3DQA | VGG, Oxford | [Do 3D Large Language Models Really Understand 3D Spatial Relationships?](https://openreview.net/forum?id=3vlMiJwo8b) | ICLR 2026 | [project](https://real-3dqa.github.io/) |
 | 2025-12-15 | RoboTracer | BUAA | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660) | Arxiv | [project](https://zhoues.github.io/RoboTracer/) |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: 
 | 2025-11-28 | ORS3D | HUST | [Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution](https://arxiv.org/abs/2511.19430) | AAAI ‘26 | [project](https://h-embodvis.github.io/GRANT/) |
