@@ -38,7 +38,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
-| 2025-12-05 | Fast Scenescript | Qualcomm / UvA | [Fast SceneScript: Accurate and Efficient Structured Language Model via Multi-Token Prediction](https://arxiv.org/pdf/2512.05597) | CVPR '26 | - |
+| 2025-12-05 | Fast Scenescript | Qualcomm / UvA | [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](https://arxiv.org/abs/2512.05597) | CVPR '26 | - |
 | 2025-11-27 | G<sup>2</sup>VLM | Shanghai AI Lab | [G<sup>2</sup>VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688) | Arxiv | [github](https://github.com/InternRobotics/G2VLM) |
 | 2025-07-31 | 3D-R1 | PKU | [3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding](https://arxiv.org/abs/2507.23478) | Arxiv | [project](https://aigeeksgroup.github.io/3D-R1/) |
 | 2025-06-11 | LEO-VL | BIGAI | [LEO-VL: Efficient Scene Representation for Scalable 3D Vision-Language Learning](https://arxiv.org/abs/2506.09935) | Arxiv | [project](https://leo-vl.github.io/) |
