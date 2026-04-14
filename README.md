@@ -24,6 +24,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## Table of Contents
 
 - [Awesome-LLM-3D](#awesome-llm-3D)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
   - [3D Unified Understanding and Generation (LLM)](#3d-unified-understanding-and-generation-via-llm)
   - [3D Understanding (LLM)](#3d-understanding-via-llm)
   - [3D Understanding (other Foundation Models)](#3d-understanding-via-other-foundation-models)
