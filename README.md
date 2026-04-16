@@ -45,6 +45,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2026-03-07 | 3D-RFT | BIGAI | [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) | Arxiv | [github](https://github.com/3D-RFT/3D-RFT) |
 | 2025-12-05 | Fast Scenescript | Qualcomm / UvA | [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](https://arxiv.org/abs/2512.05597) | CVPR '26 | - |
 | 2025-11-27 | G<sup>2</sup>VLM | Shanghai AI Lab | [G<sup>2</sup>VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688) | Arxiv | [github](https://github.com/InternRobotics/G2VLM) |
 | 2025-11-07 | Omni-View | PKU | [Omni-View: Unlocking How Generation Facilitates Understanding in Unified 3D Model based on Multiview images](https://arxiv.org/abs/2511.07222) | ICLR 2026 | [github](https://github.com/AIDC-AI/Omni-View) |
