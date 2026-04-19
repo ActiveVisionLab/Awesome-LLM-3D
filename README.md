@@ -23,6 +23,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ## Table of Contents
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Awesome-LLM-3D](#awesome-llm-3D)
   - [3D Unified Understanding and Generation (LLM)](#3d-unified-understanding-and-generation-via-llm)
   - [3D Understanding (LLM)](#3d-understanding-via-llm)
@@ -250,3 +251,5 @@ If you find this repository useful, please consider citing this paper:
 ## Acknowledgement
 This repo is inspired by [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM?tab=readme-ov-file#other-awesome-lists)
 
+
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
