@@ -45,6 +45,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 |  Date |       Keywords       |    Institute (first)   | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------:
+| 2026-06-09 | CAPruner | SUSTech | [CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models](https://arxiv.org/abs/2606.07529) | ACL '26 | [project](https://fz-zsl.github.io/capruner/) |
+| 2026-03-27 | QuatRoPE | SUSTech / PKU | [Scalable Object Relation Encoding for Better 3D Spatial Reasoning in Large Language Models](https://arxiv.org/abs/2603.24721) | CVPR '26 | [project](https://fz-zsl.github.io/quatrope) |
 | 2026-03-07 | 3D-RFT | BIGAI | [3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding](https://arxiv.org/abs/2603.04976) | Arxiv | [github](https://github.com/3D-RFT/3D-RFT) |
 | 2025-12-05 | Fast Scenescript | Qualcomm / UvA | [Fast SceneScript: Fast and Accurate Language-Based 3D Scene Understanding via Multi-Token Prediction](https://arxiv.org/abs/2512.05597) | CVPR '26 | - |
 | 2025-11-27 | G<sup>2</sup>VLM | Shanghai AI Lab | [G<sup>2</sup>VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/pdf/2511.21688) | Arxiv | [github](https://github.com/InternRobotics/G2VLM) |
