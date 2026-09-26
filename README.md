@@ -146,6 +146,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 3D Reasoning
 |  Date |       keywords       |    Institute (first)    | Paper                                                                                                                                                                               | Publication | Others |
 | :-----: | :------------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :---------: |
+| 2026-09-19 | Spatial-Interactor | ZJU | [Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World](https://arxiv.org/abs/2609.23038) | Arxiv | [github](https://github.com/ZJU-OmniAI/Spatial-Interactor) |
 | 2025-12-15 | RoboTracer | BUAA | [RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2512.13660) | Arxiv | [project](https://zhoues.github.io/RoboTracer/) |
 | 2025-06-11 | SceneCOT | BIGAI | [SceneCOT: Eliciting Chain-of-Thought Reasoning in 3D Scenes](https://scenecot.github.io/) | Arxiv | [project](https://scenecot.github.io/) |
 | 2025-06-04 | RoboRefer | BUAA | [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) | Arxiv | [project](https://zhoues.github.io/RoboRefer/) |
